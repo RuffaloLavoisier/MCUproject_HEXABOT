@@ -112,12 +112,10 @@ void setup() {
 }
 
 void loop() {
-
         go();
-   
-
 }
 
+// for embedded delay without stop
 void delay_sec(uint16_t sec) {
   long prev = millis();
   while (millis() - prev <= sec);
