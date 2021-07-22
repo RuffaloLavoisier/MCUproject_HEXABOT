@@ -11,8 +11,12 @@ need sg90 12 ea and arduino uno(standard) and make shield.
 
 ## Movie
 
-저의 프로젝트 구동 [영상](https://youtu.be/sZA9VcK2ML0) 입니다.  
+프로젝트 구동 [영상](https://youtu.be/sZA9VcK2ML0) 입니다.  
 
 ## 3D print
 
 내가 참고한 [부품](https://www.thingiverse.com/thing:1021540)입니다.  
+
+## App
+
+구글 스토어에서 Bluetooth를 이용한 앱을 사용하였습니다. 
